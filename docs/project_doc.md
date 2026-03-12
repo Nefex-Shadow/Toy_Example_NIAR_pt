@@ -2,7 +2,7 @@
 
 ## 1. Informações Gerais
 
-| Item | Descrição / Preencher |
+| Item | Descrição |
 | :--- | :--- |
 | **Título do projeto** | Toy Example NIAR |
 | **Objetivo** | Simular um projeto de IA responsável em estágio inicial, com dimensões de Auditabilidade, Explicabilidade, Transparência e Justiça ainda não implementadas. |
@@ -15,14 +15,32 @@
 ---
 
 ## 2. Escopo do Modelo
-* **Descrição:** Modelo de exemplo para testes internos e demonstração de auditoria.
-* **Tipo de modelo:** [Ex.: Classificador, Regressor, NLP, etc.]
-* **Dados utilizados:** Dados simulados / Toy Dataset.
-* **Limitações conhecidas:** Nenhuma implementação das dimensões de IA responsável até o momento.
+
+| Campo | Descrição |
+| :--- | :--- |
+| **Descrição** | Modelo de exemplo para testes internos e demonstração de auditoria. |
+| **Tipo de modelo** | Regressor |
+| **Dados utilizados** | Amostra do DataSUS |
+| **Limitações conhecidas** | Nenhuma implementação das dimensões de IA responsável até o momento. |
 
 ---
 
-## 3. Artefatos e Estrutura
+## 3. Mapeamento Inicial por Dimensão
+
+Preencha as evidências, observações ou links para relatórios/artefatos correspondentes.
+
+### 3.1 Auditabilidade
+
+| Dimensão | Foco da Documentação | Template |
+| :--- | :--- | :--- |
+| **Justiça** | Disparidades entre grupos, métricas de fairness e análise de resultados. | [📄 Acessar](https://docs.google.com/document/d/SEU_LINK/copy) |
+| **Explicabilidade** | Métodos de interpretação, visualizações e limitações das explicações. | [📄 Acessar](https://docs.google.com/document/d/SEU_LINK/copy) |
+| **Privacidade** | Dados sensíveis, anonimização, controle de acesso e retenção. | [📄 Acessar](https://docs.google.com/document/d/SEU_LINK/copy) |
+| **Governança** | Responsabilidades, protocolos de decisão e conformidade. | [📄 Acessar](https://docs.google.com/document/d/SEU_LINK/copy) |
+
+---
+
+## 4. Artefatos e Estrutura
 * **model_card.md:** Estrutura inicial.
 * **data_card.md:** Resumo dos dados de entrada.
 * **metrics_report.md:** Métricas básicas.
