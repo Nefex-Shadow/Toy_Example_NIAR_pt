@@ -1,12 +1,16 @@
-# Toy Example NIAR — Documentação do Projeto
+# FIAR Saúde - Documentação Inicial do Projeto
 
 ## 1. Informações Gerais
-* **Título do projeto:** Toy Example NIAR
-* **Objetivo:** Simular um projeto de IA responsável em estágio inicial, com dimensões de Auditabilidade, Explicabilidade, Transparência e Justiça ainda não implementadas.
-* **Equipe:** [Preencher]
-* **Instituição / Unidade:** [Preencher]
-* **Versão do documento:** 1.0
-* **Data:** [Preencher]
+
+| Item | Descrição / Preencher |
+| :--- | :--- |
+| **Título do projeto** | Toy Example NIAR |
+| **Objetivo** | Simular um projeto de IA responsável em estágio inicial, com dimensões de Auditabilidade, Explicabilidade, Transparência e Justiça ainda não implementadas. |
+| **Equipe** | NIAR |
+| **Instituição / Unidade** | DCC/UFMG |
+| **Versão do documento** | 1.0 |
+| **Data** | 12/03/2026 |
+
 
 ---
 
